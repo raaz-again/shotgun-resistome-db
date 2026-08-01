@@ -1,0 +1,11 @@
+gene_id	gene_name	gene_family	drug_class	resistance_mechanism	notes
+ARG001	blaTEM1_like	beta-lactamase	beta-lactam	antibiotic inactivation	Illustrative placeholder sequence
+ARG002	blaCTXM15_like	extended-spectrum beta-lactamase	beta-lactam	antibiotic inactivation	Illustrative placeholder sequence
+ARG003	tetA_like	efflux pump	tetracycline	antibiotic efflux	Illustrative placeholder sequence
+ARG004	tetM_like	ribosomal protection protein	tetracycline	target protection	Illustrative placeholder sequence
+ARG005	sul1_like	dihydropteroate synthase	sulfonamide	target replacement	Illustrative placeholder sequence
+ARG006	aac6Ib_like	aminoglycoside acetyltransferase	aminoglycoside	antibiotic inactivation	Illustrative placeholder sequence
+ARG007	mecA_like	altered PBP2a	beta-lactam (methicillin)	target replacement	Illustrative placeholder sequence
+ARG008	vanA_like	D-Ala-D-Lac ligase	glycopeptide	target alteration	Illustrative placeholder sequence
+ARG009	qnrS1_like	Qnr protein	fluoroquinolone	target protection	Illustrative placeholder sequence
+ARG010	mcr1_like	phosphoethanolamine transferase	colistin	target modification	Illustrative placeholder sequence
